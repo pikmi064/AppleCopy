@@ -1,0 +1,32 @@
+.list {
+    list-style: none;
+    
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(48, 48, 48);
+
+    color: rgba(213, 213, 213);
+    font-weight: 100;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Arial, sans-serif; 
+    font-size: 12px;
+
+    width: 100vw;
+    height: 44px;
+    
+}
+
+html, body, menu, header, ul {
+    margin: 0;
+    padding: 0;
+}
+
+.section a {
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
+.section {   
+    width: 100px;
+}
